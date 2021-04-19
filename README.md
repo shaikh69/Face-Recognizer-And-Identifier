@@ -12,7 +12,7 @@
 
 #  New Features!
 
-  - Add Emotion detection
+  - Add motion detection
   - Fixed image loading in Linux 
   
   
@@ -59,8 +59,8 @@ A webcam window will popup and start recognition proccess<br>
 
 <br><br>
 
-Made By ❤ : [JoeVenner](mailto:ylafrimi@gmail.com)<br>
-**Free Software, Hell Yeah!**
+Made By ❤ : [Shaikh Affan](Email:shaikh.affan253@gmail.com)<br>
+**Free Software, Yeah!**
 
 
 
